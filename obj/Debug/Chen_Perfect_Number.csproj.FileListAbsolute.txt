@@ -1,0 +1,9 @@
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\bin\Debug\Chen_Perfect_Number.exe.config
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\bin\Debug\Chen_Perfect_Number.exe
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\bin\Debug\Chen_Perfect_Number.pdb
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\obj\Debug\Chen_Perfect_Number.csprojResolveAssemblyReference.cache
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\obj\Debug\Chen_Perfect_Number.Form1.resources
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\obj\Debug\Chen_Perfect_Number.Properties.Resources.resources
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\obj\Debug\Chen_Perfect_Number.csproj.GenerateResource.Cache
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\obj\Debug\Chen_Perfect_Number.exe
+C:\Users\MERTCANALPARSLAN\Desktop\Chen_Perfect_Number\Chen_Perfect_Number\obj\Debug\Chen_Perfect_Number.pdb
